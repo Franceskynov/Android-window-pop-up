@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pop Up</string>
+    <string name="btnPopUp">Open</string>
+    <string name="btnPopUpByTime">By time</string>
+    <string name="btnPopUpWebView">Open web view</string>
+    <string name="imgdescr">load custom image</string>
+</resources>
