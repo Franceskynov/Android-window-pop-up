@@ -15,10 +15,7 @@ change time in PopUpImageByTime.java
 
 ## Captures
 
-<div align="center">
+![buttons](https://raw.githubusercontent.com/Franceskynov/Android-window-pop-up/master/captures/Screenshot_1512757439.png)
 
-	<img alt="welcome window" src="https://raw.githubusercontent.com/Franceskynov/Android-window-pop-up/master/captures/Screenshot_1512757439.png"/>
+![pop up](https://raw.githubusercontent.com/Franceskynov/Android-window-pop-up/master/captures/Screenshot_1512757424.png)
 
-	<img alt="First example" src="https://raw.githubusercontent.com/Franceskynov/Android-window-pop-up/master/captures/Screenshot_1512757424.png"/>
-	
-</div>
